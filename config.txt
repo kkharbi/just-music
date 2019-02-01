@@ -1,0 +1,6 @@
+owner=298633171128418304
+prefix=j
+game=jhelp
+stayinchannel=true
+songinstatus=false
+token=NTQwNzAzNDQ4MzEyODQwMTky.DzYeGA.UK48qbfPP3FFznep-voJtj0uZ84
